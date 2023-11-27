@@ -57,11 +57,11 @@ This project can be broken down into 3 modules:
 
  
 
-Soumyo Nath Tripathy 
-
-Shubham Kumar Singh
+Soumyo Nath Tripathy
 
 Ujjwal Kumar
+
+Shubham Kumar Singh
 
 Aayush Kumar Singh 
 
